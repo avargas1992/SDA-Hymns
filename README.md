@@ -24,7 +24,7 @@ SDA Hymns brings the *Seventh-day Adventist Church Hymnal* to your Android devic
 ---
 
 ## 📲 Installation
-1. Download the APK or install via Google Play (if available).  
+1. Download the APK or install via Google Play (once available).  
 2. Open the app and select your preferred hymnal edition.  
 3. Start singing and worshiping with ease.
 
