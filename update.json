@@ -1,7 +1,7 @@
 {
-     "latestVersion": "1.0.00037",
-     "apkUrl": "https://github.com/avargas1992/SDA-Hymns/releases/download/v1.0.00037/SDAHymns.apk",
-     "description": "Bug fixes and performance improvements",
-     "date": "2026-10-04",
+     "latestVersion": "1.0.00050",
+     "apkUrl": "https://github.com/avargas1992/SDA-Hymns/releases/download/v1.0.00050/SDAHymns.apk",
+     "description": "• Added support for playing .mid (MIDI) accompaniments.\n• Added background playback with notification bar media controls.\n• Automatic playback isolation when switching hymns.",
+     "date": "2026-10-09",
      "googlePlayAvailable": false
    }
