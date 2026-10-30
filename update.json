@@ -1,6 +1,6 @@
 {
-     "latestVersion": "1.0.00074",
-     "apkUrl": "https://github.com/avargas1992/SDA-Hymns/releases/download/v1.0.00074/SDAHymns.apk",
+     "latestVersion": "1.0.00081",
+     "apkUrl": "https://github.com/avargas1992/SDA-Hymns/releases/download/v1.0.00081/SDAHymns.apk",
      "description": "• Added MIDI accompaniment support.\n• Added background audio playback and improved media controls.\n• Improved hymn playback management and stability.\n• Added Advent Media Player desktop app integration.\n• Added update changelog viewer and download options.\n• Added desktop app license registration support.\n• Added quick access link to Advent Media Player from the navigation menu.",
      "date": "2026-10-30",
      "googlePlayAvailable": false
